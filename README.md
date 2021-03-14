@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='mem_game.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.glitch.com/f042b5b3-eb43-4458-b6a1-d20ada8420d7%2Fmem_game.gif?v=1615717052132' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
